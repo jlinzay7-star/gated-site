@@ -13,3 +13,4 @@ h2 { font-size:17px; margin:36px 0 6px; padding-top:18px; border-top:1px solid v
 .lead { font-size:20px; }
 a { color:var(--stamp); }
 ol, ul { padding-left:22px; }
+.store { display:inline-block; margin-top:12px; padding:12px 20px; border-radius:999px; background:var(--stamp); color:#fff; font-weight:600; text-decoration:none; }
